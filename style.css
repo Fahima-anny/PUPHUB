@@ -1,0 +1,254 @@
+.navFormBtn1{
+    background: #124c5f;
+}
+
+.navFormBtn1:hover {
+    background: #196c88;
+    transition: 0.7s;
+}
+
+#navFormBtn2{
+    color: #124c5f;
+}
+
+#bannerSection{
+    background-image: url(./Images/hero\ \(1\).png);
+    height: 115vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bannerSectionTextDiv{
+padding-top: 100px;
+width: 370px;
+}
+
+#dogSpeakSectionPara{
+    text-align: justify;
+}
+
+#dogSpeakSection{
+    background-image: url(./Images/about-section.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 93vh;
+}
+
+#dogSpeakSection>div{
+    width: 500px;
+}
+
+.dogFoodImg{
+top: 160px;
+    right: 34px;
+}
+
+#no2CardImg{
+width: 180px;
+height: 260px;
+}
+
+#aboutSection{
+    background-image: url(./Images/detail\ section.png);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#aboutSection>div>div{
+    width: 470px;
+   padding-bottom: 50px;
+}
+
+.cardBody{
+    background-color: #124c5f;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:576px) {
+
+    #bannerSection{
+        background-image: url(./Images/hero2.png);
+        height:63vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+    }
+
+    #bannerSectionTextDiv{
+        padding-top: 400px;
+        width: 370px;
+        text-align: center;
+        }
+
+        #serviceSection{
+            margin-top: 250px;
+        }
+
+        #dogSpeakSection{
+            background-image: url(./Images/about-section2.png);
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 50vh;
+        }
+        
+        #dogSpeakSection>div{
+            width: 330px;
+            padding-top: 240%;
+        }
+    
+        #dogFoodSection{
+            padding-top: 480px;
+            text-align: center;
+        }
+
+        #aboutSection{
+            
+            background-image: url(./Images/detail\ section10.png);
+            height: 100vh;
+            background-size: contain;
+          
+        }
+
+        #aboutSection>div>div{
+            padding-top: 90%;
+            text-align: center;
+            padding-bottom: 0;
+        }
+
+footer{
+    text-align: center;
+
+}
+
+#footerForm{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
